@@ -13,3 +13,6 @@
 
 ### Day 4:
  - For day 4, our task was to find a dataset that could solve a real-world problem. The problem that I was interested in was understanding the user-base in businesses such as Spotify and finding out how to maximize the efficiency of their software to propose possible improvements. Questions such as do people cluster certain artists on one playlist, does having more playlist followers increase or reduce the average listen time, and what variables lead to the longest listening time can be answered while exploring the dataset. The dataset can be found here https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
+
+### Day 5:
+- This day, we have learned about tensors and their value in machine learning. Mathematically speaking, Tensors are data containers, ranging from scalar to 3D matrixes, so a tensor is a container that can house data in N dimensions.  Tensors can be thought of as objects in an object-oriented sense, rather than just as data structures, from a computer science perspective. As for machine learning, tensors is a term and a set of techniques used in machine learning to describe the training and operation of deep learning models.
