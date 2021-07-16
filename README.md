@@ -23,5 +23,5 @@
 ### Day 8:
 - On this day we got to practice simple neural network models. The task was to detect sarcasm in the news dataset.
 
-### Day 8:
+### Day 9:
 - For day 9 our task was to extend the dataset for a CNN model to notice differences.
