@@ -25,3 +25,6 @@
 
 ### Day 9:
 - For day 9 our task was to extend the dataset for a CNN model to notice differences.
+
+### Day 10:
+- After playing "Survival of the Best Fit" game on ethical problems with AI and hiring, I have learned on how algorithmic basic occurs and possible ways to prevent it. The game itself was designed well, with implementation of both software engineering and machine learning (AI). After each step of completing the game, there was a series of questions to answer, and the game would proceed with the option that we choose and then adapt to our results. A real-world example that seems to be very common is COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) algorithm that is used in US court systems to predict the likelihood that a defendant would become a recidivist. For prevention of bias, a richer dataset must be used for training machine learning algorithm.
