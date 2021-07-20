@@ -28,3 +28,6 @@
 
 ### Day 10:
 - After playing "Survival of the Best Fit" game on ethical problems with AI and hiring, I have learned on how algorithmic basic occurs and possible ways to prevent it. The game itself was designed well, with implementation of both software engineering and machine learning (AI). After each step of completing the game, there was a series of questions to answer, and the game would proceed with the option that we choose and then adapt to our results. A real-world example that seems to be very common is COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) algorithm that is used in US court systems to predict the likelihood that a defendant would become a recidivist. For prevention of bias, a richer dataset must be used for training machine learning algorithm.
+
+### Day 11:
+- A fully connected neural network is made up of a sequence of fully linked layers, each of which connects every neuron in one layer to every neuron in the other. One of the advantages of fully connected networks is that they are “structure agnostic” which means that there is no special assumptions needed to be made about the input. CNN networks, on the other hand, use the explicit assumption that the inputs are images, allowing the model architecture to encode specific features.
