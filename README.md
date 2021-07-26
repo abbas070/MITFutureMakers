@@ -38,3 +38,7 @@
 ### Day 14:
 
 - For this day we have practiced developing neural networks. For an exercise, we built a neural network predicting house prices using a simple feed-forward model.
+
+### Day 15:
+
+- On day 15 we have learned about different functions applied to deep learning. One of the most common functions used for hidden layers is a Rectified Linear Activation (ReLU) function, which is calculated by max(0.0, x). It is not just simple to implement, but also effective at overcoming the limitations of other functions. ReLU function is less susceptible to vanishing gradients that prevent deep models from being trained.
