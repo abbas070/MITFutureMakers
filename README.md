@@ -31,3 +31,6 @@
 
 ### Day 11:
 - A fully connected neural network is made up of a sequence of fully linked layers, each of which connects every neuron in one layer to every neuron in the other. One of the advantages of fully connected networks is that they are “structure agnostic” which means that there is no special assumptions needed to be made about the input. CNN networks, on the other hand, use the explicit assumption that the inputs are images, allowing the model architecture to encode specific features.
+
+### Day 12 and 13:
+- The Weekend
