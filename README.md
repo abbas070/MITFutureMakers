@@ -34,3 +34,7 @@
 
 ### Day 12 and 13:
 - The Weekend
+
+### Day 14:
+
+- For this day we have practiced developing neural networks. For an exercise, we built a neural network predicting house prices using a simple feed-forward model.
