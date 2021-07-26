@@ -42,3 +42,7 @@
 ### Day 15:
 
 - On day 15 we have learned about different functions applied to deep learning. One of the most common functions used for hidden layers is a Rectified Linear Activation (ReLU) function, which is calculated by max(0.0, x). It is not just simple to implement, but also effective at overcoming the limitations of other functions. ReLU function is less susceptible to vanishing gradients that prevent deep models from being trained.
+
+### Day 16:
+
+ - The task for this day was to build a gender classification model implementing predictions on the accuracy of the classification. 
