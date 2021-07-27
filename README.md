@@ -47,6 +47,10 @@
 
  - The task for this day was to build a gender classification model implementing predictions on the accuracy of the classification. 
 
+### Day 17:
+
+- This day we have practiced building classification models with some libraries, such as Keras.
+
 ### Day 18:
 
 - For day 18 we practiced on overfitting handling in some deep learning models. We also learning on how to avoid overfitting in neural networks.
