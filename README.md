@@ -54,3 +54,9 @@
 ### Day 18:
 
 - For day 18 we practiced on overfitting handling in some deep learning models. We also learning on how to avoid overfitting in neural networks.
+
+### Day 19 and 20:
+- The Weekend
+
+### Day 21:
+- The task for this day was to develop and visualize autoencoder based reconstruction and noise removal
