@@ -60,3 +60,6 @@
 
 ### Day 21:
 - The task for this day was to develop and visualize autoencoder based reconstruction and noise removal
+
+### Day 22:
+- On this day, we have learned about image classification using Machine Learning. Specifically, we have covered techniques such as Image Preprocessing, Detection of an object, Feature extraction and Training, and Classification of the object. We have then built an image classification model with help of Keras.
