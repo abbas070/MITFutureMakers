@@ -63,3 +63,6 @@
 
 ### Day 22:
 - On day 22, we have learned about affective computing and emotion estimation from speech parameters to understand how system and devices can recognize, interpret, process, and simulate human emotions.
+
+### Day 23:
+- The task was to learn more about Natural Language Processing and follow on a Tensorflow project.
