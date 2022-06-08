@@ -9,9 +9,18 @@ In this program, we focused on:
 - Regular tech talks and career readiness seminars from industry authorities
 - Entrepreneurship and leadership skills development
 
-For the first month of the program, I have learned fundamental knowledge on machine learning and deep learning and was able to apply this knowledge to numerious hands-on projects.
+For the first month of the program, I have learned fundamental knowledge on machine learning and deep learning and was able to apply this knowledge to numerious hands-on projects. Along with that, we were introduce to market research principles to make sure we are solving a real-world problem when creating our final project. To build our product, we went through several iterations and at the end had an opportunity to patent our work.
 
-At the end of the program we had a create-a-thon where together with my team I was able to develop an application that would be able to recognize face features using face recognition.
+At the end of the program we had a create-a-thon where together with my team I was able to develop an application that would be able to recognize face features using face recognition. When our application with an integrated deep learning model was completed, we presented it to the panel of judges that would determine our placement among other teams and eligibility of completion the program. As a result, my team was ranked as the finalist team.
+
+**Team name:** Code Blue
+**Rank:** Finalist
+**Panel of judges:**
+[Cynthia Breazel](https://www.linkedin.com/in/cynthia-breazeal-1792317/), Associate Director of MIT Medial Lab, and Director of MIT RAISE
+James Dickerston, Chief Science Officer of Consumer Reports
+Christina Dolan, CEO of Inside Chains, co-founder of Additum Block chain, and founder of Dream It. Code It. Win It.
+Keith Foster, Chief People Office at Cysiv
+Ronit Avni, Founder and CEO, Localized
 
 ### July 2021
 |           Mon          |           Tue          |           Wed          |           Thu          |           Fri          |Sat |Sun |
