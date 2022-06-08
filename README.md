@@ -22,6 +22,16 @@ At the end of the program we had a create-a-thon where together with my team I w
 | [19](#day-14-19072021) | [20](#day-15-20072021) | [21](#day-16-21072021) | [22](#day-17-22072021) | [23](#day-18-23072021) | 24 | 25 |
 | [26](#day-21-26072021) | [27](#day-22-27072021) | [28](#day-23-28072021) | [29](#day-24-29072021) | [30](#weeks-5--6-30072021---13082021) | [31](#weeks-5--6-30072021---13082021) |    |
 
+### August 2021
+|           Mon          |           Tue          |           Wed          |           Thu          |           Fri          |Sat |Sun |
+|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:--:|:--:|
+|                        |                        |                        |                        |                        |    | [01](#weeks-5--6-30072021---13082021) |
+| [03](#weeks-5--6-30072021---13082021) | [03](#weeks-5--6-30072021---13082021) | [04](#weeks-5--6-30072021---13082021) | [05](#weeks-5--6-30072021---13082021) | [06](#weeks-5--6-30072021---13082021) | [07](#weeks-5--6-30072021---13082021) | [08](#weeks-5--6-30072021---13082021) |
+| [09](#weeks-5--6-30072021---13082021) | [10](#weeks-5--6-30072021---13082021) | [11](#weeks-5--6-30072021---13082021) | [12](#weeks-5--6-30072021---13082021) | [13](#weeks-5--6-30072021---13082021) | 14 | 15 |
+|           16           |           17           |           18           |           19           |           20           | 21 | 22 |
+|           23           |           24           |           25           |           26           |           27           | 28 | 29 |
+|           30           |           31           |                        |                        |                        |    |    |
+
 ### Day 1:
 - In this joint program between MIT and SureStart, I am hoping to advance my knowledge in Deep Learning, Machine Learning, as well as other applications of Data Science. At the beginning of the program, we cover the fundamentals of python programming for Machine Learning with all necessary packages, including pandas, NumPy, and scikit-learn. For the rest of the program, we are going to build a Deep Learning project in a team of other students. 
 
