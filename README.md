@@ -105,8 +105,16 @@ The biggest hurdle I am facing is the low processing power of the Arduino. I man
 
 Tensors usually contain numerical data and are the backbone of neural networks. All transformations of a neural network can be reduced to tensor operations.
 
-### Day 8:
+### ***What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?***
+The datasets had to be processed before training the model so that it could better identify the relationships between the data. This process is called feature extraction or feature engineering.
+
+## Day 8:
 - On this day we got to practice simple neural network models. The task was to detect sarcasm in the news dataset.
+
+### ***Lesson Plan:*** 
+- Reviewed [this guide](https://serokell.io/blog/deep-learning-and-neural-network-guide) about common components of neural networks and how they work with different ML functions and algorithms. 
+### ***Action Item:*** 
+- [Sarcasm detection](https://github.com/mferuscomelo/sarcasm-detection)
 
 ### Day 9:
 - For day 9 our task was to extend the dataset for a CNN model to notice differences.
