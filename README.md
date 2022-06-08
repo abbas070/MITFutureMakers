@@ -4,7 +4,7 @@ The MIT FutureMakers Create-a-thon is a virtual and part-time AI learning progra
 In this program, we focused on:
 
 - [x] Learning AI, machine learning and deep learning concepts
-- Turning skills into confidence through building AI solutions hands-on
+- [ ] Turning skills into confidence through building AI solutions hands-on
 - Consistent support and encouragement from a mentor 1-1
 - Regular tech talks and career readiness seminars from industry authorities
 - Entrepreneurship and leadership skills development
@@ -18,9 +18,9 @@ At the end of the program we had a create-a-thon where together with my team I w
 - **Panel of judges:**
   - [Cynthia Breazel](https://www.linkedin.com/in/cynthia-breazeal-1792317/), Associate Director of MIT Medial Lab, and Director of MIT RAISE
   - James Dickerston, Chief Science Officer of Consumer Reports
-Christina Dolan, CEO of Inside Chains, co-founder of Additum Block chain, and founder of Dream It. Code It. Win It.
-Keith Foster, Chief People Office at Cysiv
-Ronit Avni, Founder and CEO, Localized
+  - Christina Dolan, CEO of Inside Chains, co-founder of Additum Block chain, and founder of Dream It. Code It. Win It.
+  - Keith Foster, Chief People Office at Cysiv
+  - Ronit Avni, Founder and CEO, Localized
 
 ### July 2021
 |           Mon          |           Tue          |           Wed          |           Thu          |           Fri          |Sat |Sun |
