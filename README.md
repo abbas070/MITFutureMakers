@@ -1,5 +1,5 @@
 # MITFutureMakers
-The MIT FutureMakers Create-a-thon is a virtual and part-time AI learning program build in collaboration between SureStart and MIT Riase Initiative, which is responsible for AI social empowerment.
+The MIT FutureMakers Create-a-thon is a virtual and part-time AI learning program build in collaboration between [SureStart](https://mysurestart.com/) and MIT Riase Initiative, which is responsible for AI social empowerment.
 
 In this program, we focused on:
 
