@@ -4,10 +4,10 @@ The MIT FutureMakers Create-a-thon is a virtual and part-time AI learning progra
 In this program, we focused on:
 
 - [x] Learning AI, machine learning and deep learning concepts
-- [ ] Turning skills into confidence through building AI solutions hands-on
-- Consistent support and encouragement from a mentor 1-1
-- Regular tech talks and career readiness seminars from industry authorities
-- Entrepreneurship and leadership skills development
+- [x] Turning skills into confidence through building AI solutions hands-on
+- [x] Consistent support and encouragement from a mentor 1-1
+- [x] Regular tech talks and career readiness seminars from industry authorities
+- [x] Entrepreneurship and leadership skills development
 
 For the first month of the program, I have learned fundamental knowledge on machine learning and deep learning and was able to apply this knowledge to numerious hands-on projects. Along with that, we were introduce to market research principles to make sure we are solving a real-world problem when creating our final project. To build our product, we went through several iterations and at the end had an opportunity to patent our work.
 
@@ -17,10 +17,11 @@ At the end of the program we had a create-a-thon where together with my team I w
 - **Rank:** Finalist
 - **Panel of judges:**
   - [Cynthia Breazel](https://www.linkedin.com/in/cynthia-breazeal-1792317/), Associate Director of MIT Medial Lab, and Director of MIT RAISE
-  - James Dickerston, Chief Science Officer of Consumer Reports
-  - Christina Dolan, CEO of Inside Chains, co-founder of Additum Block chain, and founder of Dream It. Code It. Win It.
-  - Keith Foster, Chief People Office at Cysiv
-  - Ronit Avni, Founder and CEO, Localized
+  - [James Dickerston](https://www.linkedin.com/in/james-h-dickerson-phd-808a5712/), Chief Science Officer of Consumer Reports
+  - [Christina Dolan](https://www.linkedin.com/in/cdolan/), CEO of Inside Chains, co-founder of Additum Block chain, and founder of Dream It. Code It. Win It.
+  - [Keith Foster](https://www.linkedin.com/in/keith-foster-06b9661/), Chief People Office at Cysiv
+  - [Ronit Avni](https://www.linkedin.com/in/ronitavni/), Founder and CEO, Localized
+- **Next step:** Invitation to the 2022 annual *Global Silicon Valley (GSV)* summit in San Diego
 
 ### July 2021
 |           Mon          |           Tue          |           Wed          |           Thu          |           Fri          |Sat |Sun |
