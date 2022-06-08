@@ -42,7 +42,7 @@ At the end of the program we had a create-a-thon where together with my team I w
 |           23           |           24           |           25           |           26           |           27           | 28 | 29 |
 |           30           |           31           |                        |                        |                        |    |    |
 
-### Day 1:
+## Day 1:
 - In this joint program between MIT and SureStart, I am hoping to advance my knowledge in Deep Learning, Machine Learning, as well as other applications of Data Science. At the beginning of the program, we cover the fundamentals of python programming for Machine Learning with all necessary packages, including pandas, NumPy, and scikit-learn. For the rest of the program, we are going to build a Deep Learning project in a team of other students. 
 
 ### Day 2:
