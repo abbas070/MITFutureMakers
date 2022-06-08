@@ -3,7 +3,7 @@ The MIT FutureMakers Create-a-thon is a virtual and part-time AI learning progra
 
 In this program, we focused on:
 
-- Learning AI, machine learning and deep learning concepts
+- [x] Learning AI, machine learning and deep learning concepts
 - Turning skills into confidence through building AI solutions hands-on
 - Consistent support and encouragement from a mentor 1-1
 - Regular tech talks and career readiness seminars from industry authorities
@@ -13,11 +13,11 @@ For the first month of the program, I have learned fundamental knowledge on mach
 
 At the end of the program we had a create-a-thon where together with my team I was able to develop an application that would be able to recognize face features using face recognition. When our application with an integrated deep learning model was completed, we presented it to the panel of judges that would determine our placement among other teams and eligibility of completion the program. As a result, my team was ranked as the finalist team.
 
-**Team name:** Code Blue
-**Rank:** Finalist
-**Panel of judges:**
-[Cynthia Breazel](https://www.linkedin.com/in/cynthia-breazeal-1792317/), Associate Director of MIT Medial Lab, and Director of MIT RAISE
-James Dickerston, Chief Science Officer of Consumer Reports
+- **Team name:** Code Blue
+- **Rank:** Finalist
+- **Panel of judges:**
+  - [Cynthia Breazel](https://www.linkedin.com/in/cynthia-breazeal-1792317/), Associate Director of MIT Medial Lab, and Director of MIT RAISE
+  - James Dickerston, Chief Science Officer of Consumer Reports
 Christina Dolan, CEO of Inside Chains, co-founder of Additum Block chain, and founder of Dream It. Code It. Win It.
 Keith Foster, Chief People Office at Cysiv
 Ronit Avni, Founder and CEO, Localized
