@@ -1,6 +1,13 @@
 # MITFutureMakers
+The MIT FutureMakers Create-a-thon is a virtual and part-time AI learning program build in collaboration between SureStart and MIT Riase Initiative, which is responsible for AI social empowerment.
 
-## Responses:
+In this program, we focused on:
+
+- Learning AI, machine learning and deep learning concepts
+- Turning skills into confidence through building AI solutions hands-on
+- Consistent support and encouragement from a mentor 1-1
+- Regular tech talks and career readiness seminars from industry authorities
+- Entrepreneurship and leadership skills development
 
 ### Day 1:
 - In this joint program between MIT and SureStart, I am hoping to advance my knowledge in Deep Learning, Machine Learning, as well as other applications of Data Science. At the beginning of the program, we cover the fundamentals of python programming for Machine Learning with all necessary packages, including pandas, NumPy, and scikit-learn. For the rest of the program, we are going to build a Deep Learning project in a team of other students. 
