@@ -1,5 +1,5 @@
 # MITFutureMakers
-The MIT FutureMakers Create-a-thon is a virtual and part-time AI learning program build in collaboration between [SureStart](https://mysurestart.com/) and MIT Riase Initiative, which is responsible for AI social empowerment.
+The MIT FutureMakers Create-a-thon is a virtual and part-time AI learning program build in collaboration between [SureStart](https://mysurestart.com/) and [MIT Riase Initiative](https://raise.mit.edu/), which is responsible for AI social empowerment.
 
 In this program, we focused on:
 
@@ -8,6 +8,19 @@ In this program, we focused on:
 - Consistent support and encouragement from a mentor 1-1
 - Regular tech talks and career readiness seminars from industry authorities
 - Entrepreneurship and leadership skills development
+
+For the first month of the program, I have learned fundamental knowledge on machine learning and deep learning and was able to apply this knowledge to numerious hands-on projects.
+
+At the end of the program we had a create-a-thon where together with my team I was able to develop an application that would be able to recognize face features using face recognition.
+
+### July 2021
+|           Mon          |           Tue          |           Wed          |           Thu          |           Fri          |Sat |Sun |
+|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:--:|:--:|
+|                        |                        |                        |           01           |           02           | 03 | 04 |
+|           05           | [06](#day-01-06072021) | [07](#day-02-07072021) | [08](#day-03-08072021) | [09](#day-04-09072021) | 10 | 11 |
+| [12](#day-07-12072021) | [13](#day-08-13072021) | [14](#day-09-14072021) | [15](#day-10-15072021) | [16](#day-11-16072021) | 17 | 18 |
+| [19](#day-14-19072021) | [20](#day-15-20072021) | [21](#day-16-21072021) | [22](#day-17-22072021) | [23](#day-18-23072021) | 24 | 25 |
+| [26](#day-21-26072021) | [27](#day-22-27072021) | [28](#day-23-28072021) | [29](#day-24-29072021) | [30](#weeks-5--6-30072021---13082021) | [31](#weeks-5--6-30072021---13082021) |    |
 
 ### Day 1:
 - In this joint program between MIT and SureStart, I am hoping to advance my knowledge in Deep Learning, Machine Learning, as well as other applications of Data Science. At the beginning of the program, we cover the fundamentals of python programming for Machine Learning with all necessary packages, including pandas, NumPy, and scikit-learn. For the rest of the program, we are going to build a Deep Learning project in a team of other students. 
