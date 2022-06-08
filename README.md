@@ -43,21 +43,62 @@ At the end of the program we had a create-a-thon where together with my team I w
 |           30           |           31           |                        |                        |                        |    |    |
 
 ## Day 1:
+### ***What do you hope to learn from this program?***
 - In this joint program between MIT and SureStart, I am hoping to advance my knowledge in Deep Learning, Machine Learning, as well as other applications of Data Science. At the beginning of the program, we cover the fundamentals of python programming for Machine Learning with all necessary packages, including pandas, NumPy, and scikit-learn. For the rest of the program, we are going to build a Deep Learning project in a team of other students. 
 
-### Day 2:
+## Day 2:
+### ***What did you learn during Dr. Kong's seminar?***
 - On the second day of our program, we had a seminar on leadership & storytelling held by a Director of MIT Media Lab, Dr. Kong. In this session, we covered the importance of storytelling and self-recognition. As a result, this session has taught me not only a better storytelling strategy, but also gave me a sense that we all had our struggles in life and all deserve respect for staying strong and not giving up.
 
-### Day 3:
+## Day 3:
+### ***Lesson Plan***
+- Reviewed ML models with this [article](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
+### ***Action Item:*** 
+- [Decision Tree Classifier](/decision-tree-classifier/)
+### ***What is the difference between supervised and unsupervised learning?***
+| Supervised Learning                                                                      | Unsupervised Learning                                                                                    |
+|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| ***Use Cases:***<br>Predict outcomes for new data                                        | ***Use Cases:***<br>Gain insights from large volumes of data                                             |
+| ***Applications:***<br>- Spam Detection<br>- Sentiment Analysis<br>- Pricing Predictions | ***Applications:***<br>- Anomaly Detection<br>- Recommendation Engines<br>- Medical Image Classification |
+| ***Drawbacks:***<br>Can be time-consuming to label dataset and train models              | ***Drawbacks:***<br>Can have inaccurate results and reflects biases that might be present in the dataset |
+
+### ***Describe why the following statement is FALSE: Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries.***
+The Scikit-Learn library is built on top of visualization libraries like Pandas and Graphviz. Therefore, data analysis libraries need to be installed prior to using Scikit-Learn.
+
+### ***Supplemental Activity:*** 
+- [Predicting Housing Prices](/predicting-housing-prices/)
+
 - On day 3 we had an opportunity to learn about some concepts and models of machine learning and applications of scikit-learn. We learned about the bone structure of Artificial Intelligence and its sub-categories, such as Machine Learning, Neural Networks, and Deep Learning. There are two main components of Machine Learning that produce final predictions - a dataset (this includes data wrangling with raw data) with which we will feed the model and an algorithm (this includes data splitting, training, and validating models) which will compute prediction.
 
-### Day 4:
+## Day 4:
+### ***Lesson Plan***
+- Gained a high level understanding of DL models and algorithms through [this article](https://serokell.io/blog/deep-learning-and-neural-network-guide)
+### ***Real World Problem:*** 
+According to the [WHO](https://www.who.int/news-room/fact-sheets/detail/falls), an estimated 684 000 fatal falls occur each year, making it the second leading cause of unintentional injury death, after road traffic injuries. However, not all falls are fatal, with 37.3 million falls being severe enough to require medical attention. With so many people being injured or killed each year by falls, it is of great social significance to provide them with accurate, dependable, and effective procedures to mitigate the effects of falls. 
+
+### ***Dataset:*** 
+I am using the [SisFall dataset](http://sistemic.udea.edu.co/en/research/projects/english-falls/) which consists of data collected from two accelerometers and one gyroscope. This dataset is the only one I could find that includes falls by people over 60. However, due to medical concerns, there is a bias towards younger groups of people.
+
+### ***Method:*** 
+I'm currently developing a model to detect falls using deep learning, which will be deployed to an Arduino. The binary classification model uses a combination of a Convolutional Neural Network (CNN) and Long Short Term Memory (LSTM) for time series prediction. 
+
+The biggest hurdle I am facing is the low processing power of the Arduino. I managed to train a model that can detect falls with over 99.5% accuracy, though the computation requirements for feature extraction proved to be too high for the Arduino to handle. I have therefore switched to using deep learning and am training the model on raw data. More information on the project can be found here: [https://github.com/mferuscomelo/fall-detection](https://github.com/mferuscomelo/fall-detection)
+
+### ***Supplemental Activity:*** 
+- Read this [article](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) on the difference between AI and ML.
+
  - For day 4, our task was to find a dataset that could solve a real-world problem. The problem that I was interested in was understanding the user-base in businesses such as Spotify and finding out how to maximize the efficiency of their software to propose possible improvements. Questions such as do people cluster certain artists on one playlist, does having more playlist followers increase or reduce the average listen time, and what variables lead to the longest listening time can be answered while exploring the dataset. The dataset can be found here https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
 
 ### Day 5 and 6:
 - The Weekend
 
 ### Day 7:
+### ***Lesson Plan:*** 
+- [TensorFlow Basics](/tensorflow-basics/)
+- [Belgian Traffic Sign Classification](https://github.com/mferuscomelo/traffic-signs-classification)
+- [Wine Identification](https://github.com/mferuscomelo/wine-identification)
+
+### ***What are "Tensors" and what are they used for in Machine Learning?***
 - This day, we have learned about tensors and their value in machine learning. Mathematically speaking, Tensors are data containers, ranging from scalar to 3D matrixes, so a tensor is a container that can house data in N dimensions.  Tensors can be thought of as objects in an object-oriented sense, rather than just as data structures, from a computer science perspective. As for machine learning, tensors is a term and a set of techniques used in machine learning to describe the training and operation of deep learning models.
 
 ### Day 8:
