@@ -101,6 +101,10 @@ The biggest hurdle I am facing is the low processing power of the Arduino. I man
 ### ***What are "Tensors" and what are they used for in Machine Learning?***
 - This day, we have learned about tensors and their value in machine learning. Mathematically speaking, Tensors are data containers, ranging from scalar to 3D matrixes, so a tensor is a container that can house data in N dimensions.  Tensors can be thought of as objects in an object-oriented sense, rather than just as data structures, from a computer science perspective. As for machine learning, tensors is a term and a set of techniques used in machine learning to describe the training and operation of deep learning models.
 
+![Difference between a scalar, a vector, a matrix and a tensor](/images/scalar-vector-matrix-tensor.png "Difference between a scalar, a vector, a matrix and a tensor")
+
+Tensors usually contain numerical data and are the backbone of neural networks. All transformations of a neural network can be reduced to tensor operations.
+
 ### Day 8:
 - On this day we got to practice simple neural network models. The task was to detect sarcasm in the news dataset.
 
