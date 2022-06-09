@@ -66,7 +66,7 @@ At the end of the program we had a create-a-thon where together with my team I w
 The Scikit-Learn library is built on top of visualization libraries like Pandas and Graphviz. Therefore, data analysis libraries need to be installed prior to using Scikit-Learn.
 
 ### ***Supplemental Activity:*** 
-- [Predicting Housing Prices](/predicting-housing-prices/)
+- [Predicting Housing Prices](https://github.com/abbas070/MITFutureMakers/blob/main/predicting-housing-prices.ipynb)
 
 - On day 3 we had an opportunity to learn about some concepts and models of machine learning and applications of scikit-learn. We learned about the bone structure of Artificial Intelligence and its sub-categories, such as Machine Learning, Neural Networks, and Deep Learning. There are two main components of Machine Learning that produce final predictions - a dataset (this includes data wrangling with raw data) with which we will feed the model and an algorithm (this includes data splitting, training, and validating models) which will compute prediction.
 
