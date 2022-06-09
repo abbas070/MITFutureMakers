@@ -14,7 +14,7 @@ For the first month of the program, I have learned fundamental knowledge on mach
 At the end of the program we had a create-a-thon where together with my team I was able to develop an application that would be able to recognize face features using face recognition. When our application with an integrated deep learning model was completed, we presented it to the panel of judges that would determine our placement among other teams and eligibility of completion the program. As a result, my team was ranked as the finalist team. [All projects that I worked on during this program is here.](#all-projects)
 
 - **Team name:** Code Blue
-- **Rank:** Finalist
+- **Rank:** Finalist (1st place)
 - **Panel of judges:**
   - [Cynthia Breazel](https://www.linkedin.com/in/cynthia-breazeal-1792317/), Associate Director of MIT Medial Lab, and Director of MIT RAISE
   - [James Dickerston](https://www.linkedin.com/in/james-h-dickerson-phd-808a5712/), Chief Science Officer of Consumer Reports
