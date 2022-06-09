@@ -114,27 +114,68 @@ The datasets had to be processed before training the model so that it could bett
 ### ***Lesson Plan:*** 
 - Reviewed [this guide](https://serokell.io/blog/deep-learning-and-neural-network-guide) about common components of neural networks and how they work with different ML functions and algorithms. 
 ### ***Action Item:*** 
-- [Sarcasm detection](https://github.com/mferuscomelo/sarcasm-detection)
+- [Sarcasm detection](https://github.com/abbas070/MITFutureMakers/blob/main/sarcasm_detection.ipynb)
 
-### Day 9:
-- For day 9 our task was to extend the dataset for a CNN model to notice differences.
+## Day 9:
+### ***Lesson Plan:*** 
+- Learned about CNNs using this [cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+- [Visualized](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html) how CNNs work with handwritten digits
+- [What is a confusion matrix?](https://machinelearningmastery.com/confusion-matrix-machine-learning/)
+- Our main task was to extend the dataset for a CNN model to notice differences
+- 
+### ***Action Item:*** 
+- [MNIST Digits Classification](https://github.com/abbas070/MITFutureMakers/blob/main/mnist-digit-classification.ipynb)
 
-### Day 10:
-- After playing "Survival of the Best Fit" game on ethical problems with AI and hiring, I have learned on how algorithmic basic occurs and possible ways to prevent it. The game itself was designed well, with implementation of both software engineering and machine learning (AI). After each step of completing the game, there was a series of questions to answer, and the game would proceed with the option that we choose and then adapt to our results. A real-world example that seems to be very common is COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) algorithm that is used in US court systems to predict the likelihood that a defendant would become a recidivist. For prevention of bias, a richer dataset must be used for training machine learning algorithm.
+## Day 10:
+### ***Lesson Plan:*** 
+- Reviewed [presentation](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture19-bias.pdf) on algorithmic bias
 
-### Day 11:
+### ***Action Item:***
+- Played [survival of the best fit](https://www.survivalofthebestfit.com/) to learn more about how AI might impact human resources and hiring processes in different fields
+
+### ***How do you think Machine Learning or AI concepts were utilized in the design of this game?***
+After playing "Survival of the Best Fit" game on ethical problems with AI and hiring, I have learned on how algorithmic basic occurs and possible ways to prevent it. The game itself was designed well, with implementation of both software engineering and machine learning (AI). After each step of completing the game, there was a series of questions to answer, and the game would proceed with the option that we choose and then adapt to our results.
+
+### ***Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model.***
+A real-world example that seems to be very common is COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) algorithm that is used in US court systems to predict the likelihood that a defendant would become a recidivist. For prevention of bias, a richer dataset must be used for training machine learning algorithm.
+
+## Day 11:
+### ***Lesson Plan:*** 
+- Reviewed [CNN Architecture](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
+
+### ***Action Item:*** 
+- Improved [MNIST Digit Classification](https://github.com/abbas070/MITFutureMakers/blob/main/mnist-digit-classification.ipynb) algorithm and added option to make predictions in the notebook
 - A fully connected neural network is made up of a sequence of fully linked layers, each of which connects every neuron in one layer to every neuron in the other. One of the advantages of fully connected networks is that they are “structure agnostic” which means that there is no special assumptions needed to be made about the input. CNN networks, on the other hand, use the explicit assumption that the inputs are images, allowing the model architecture to encode specific features.
 
-### Day 12 and 13:
+## Day 12 and 13:
 - The Weekend
 
-### Day 14:
+## Day 14:
+### ***Lesson Plan:*** 
+- Read [article](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/) on choosing loss functions
+- Watched [lecture](https://www.youtube.com/watch?v=h7iBpEHGVNc) and reviewed [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture3.pdf) on loss functions and optimization
 
+### ***Action Item:*** 
+- [Housing Prices Prediction](https://github.com/abbas070/MITFutureMakers/blob/main/housing-price-prediction.ipynb)
 - For this day we have practiced developing neural networks. For an exercise, we built a neural network predicting house prices using a simple feed-forward model.
 
-### Day 15:
+## Day 15:
+### ***Lesson Plan:*** 
+- Reviewed [article](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/) on choosing activation functions
+- Learned [how to implement the ReLU activation function](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/)
 
-- On day 15 we have learned about different functions applied to deep learning. One of the most common functions used for hidden layers is a Rectified Linear Activation (ReLU) function, which is calculated by max(0.0, x). It is not just simple to implement, but also effective at overcoming the limitations of other functions. ReLU function is less susceptible to vanishing gradients that prevent deep models from being trained.
+### ***Choosing an activation function for a hidden layer***
+![Choosing an activation function for a hidden layer](/images/activation-function-hidden.png "Choosing an activation function for a hidden layer")
+
+### ***Choosing an activation function for an output layer***
+![Choosing an activation function for an output layer](/images/activation-function-output.png "Choosing an activation function for an output layer")
+
+- We have learned about different functions applied to deep learning. One of the most common functions used for hidden layers is a Rectified Linear Activation (ReLU) function, which is calculated by max(0.0, x). It is not just simple to implement, but also effective at overcoming the limitations of other functions. ReLU function is less susceptible to vanishing gradients that prevent deep models from being trained.
+
+### ***What are some advantages of the Rectified Linear activation function? State a use case.***
+The ReLU has become the most used activation function for hidden layers.The function is simple to use and efficient at overcoming the drawbacks of earlier popular activation functions such as sigmoid and tanh. It is less prone to vanishing gradients, which prohibit deep models from being trained, however it can suffer from other issues such as saturated or "dead" units.
+
+The ReLU activation function can be used in hidden layers for multilayer perceptrons and convolutional neural networks.
 
 ### Day 16:
 
