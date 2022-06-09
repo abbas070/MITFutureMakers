@@ -122,7 +122,7 @@ The datasets had to be processed before training the model so that it could bett
 - [Visualized](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html) how CNNs work with handwritten digits
 - [What is a confusion matrix?](https://machinelearningmastery.com/confusion-matrix-machine-learning/)
 - Our main task was to extend the dataset for a CNN model to notice differences
-- 
+
 ### ***Action Item:*** 
 - [MNIST Digits Classification](https://github.com/abbas070/MITFutureMakers/blob/main/mnist-digit-classification.ipynb)
 
