@@ -200,7 +200,7 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 - Read about the [ethics of machine learning](https://towardsdatascience.com/ethics-in-machine-learning-9fa5b1aadc12)
 
 ### ***Action Item:*** 
-- [Sentiment Analysis]([https://github.com/mferuscomelo/sentiment-analysis](https://github.com/abbas070/MITFutureMakers/blob/main/site/en/tutorials/keras/text_classification.ipynb))
+- [Sentiment Analysis](https://github.com/abbas070/MITFutureMakers/blob/main/site/en/tutorials/keras/text_classification.ipynb)
 
 ## Day 19 and 20:
 - The Weekend
