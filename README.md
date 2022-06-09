@@ -94,9 +94,9 @@ The biggest hurdle I am facing is the low processing power of the Arduino. I man
 
 ### Day 7:
 ### ***Lesson Plan:*** 
-- [TensorFlow Basics](/tensorflow-basics/)
-- [Belgian Traffic Sign Classification](https://github.com/mferuscomelo/traffic-signs-classification)
-- [Wine Identification](https://github.com/mferuscomelo/wine-identification)
+- [TensorFlow Basics]([/tensorflow-basics/](https://github.com/abbas070/MITFutureMakers/blob/main/tensorflow-basics.ipynb))
+- [Belgian Traffic Sign Classification]([https://github.com/mferuscomelo/traffic-signs-classification](https://github.com/abbas070/MITFutureMakers/blob/main/traffic_signs_classification.ipynb))
+- [Wine Identification]([https://github.com/mferuscomelo/wine-identification](https://github.com/abbas070/MITFutureMakers/blob/main/wine-identification.ipynb))
 
 ### ***What are "Tensors" and what are they used for in Machine Learning?***
 - This day, we have learned about tensors and their value in machine learning. Mathematically speaking, Tensors are data containers, ranging from scalar to 3D matrixes, so a tensor is a container that can house data in N dimensions.  Tensors can be thought of as objects in an object-oriented sense, rather than just as data structures, from a computer science perspective. As for machine learning, tensors is a term and a set of techniques used in machine learning to describe the training and operation of deep learning models.
