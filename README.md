@@ -177,26 +177,105 @@ The ReLU has become the most used activation function for hidden layers.The func
 
 The ReLU activation function can be used in hidden layers for multilayer perceptrons and convolutional neural networks.
 
-### Day 16:
+## Day 16:
+### ***Lesson Plan:*** 
+- Reviewed [article](https://hub.packtpub.com/machine-learning-ethics-what-you-need-to-know-and-what-you-can-do/) on the importance of ethics in the real-world context of AI and automation.
+- The task for this day was to build a gender classification model implementing predictions on the accuracy of the classification.
 
- - The task for this day was to build a gender classification model implementing predictions on the accuracy of the classification. 
+### ***Action Item:*** 
+- [Gender recognition from faces](https://github.com/abbas070/MITFutureMakers/blob/main/gender-recognition-face.ipynb) 
 
-### Day 17:
-
+## Day 17:
+### ***Lesson Plan:*** 
+- Reviewed different image classification techniques through this [article](https://iq.opengenus.org/basics-of-machine-learning-image-classification-techniques/)
 - On this day, we have learned about image classification using Machine Learning. Specifically, we have covered techniques such as Image Preprocessing, Detection of an object, Feature extraction and Training, and Classification of the object. We have then built an image classification model with help of Keras.
 
-### Day 18:
+### ***Action Item:*** 
+- [Animal Classification](https://github.com/abbas070/MITFutureMakers/blob/main/animal-classification.ipynb)
 
-- For day 18 we practiced on overfitting handling in some deep learning models. We also learning on how to avoid overfitting in neural networks.
+## Day 18:
+### ***Lesson Plan:***
+- For day 18 we practiced on overfitting handling in some deep learning models. We also learning on how to avoid overfitting in neural networks
+- Learned [how to avoid overfitting](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/)
+- Read about the [ethics of machine learning](https://towardsdatascience.com/ethics-in-machine-learning-9fa5b1aadc12)
 
-### Day 19 and 20:
+### ***Action Item:*** 
+- [Sentiment Analysis]([https://github.com/mferuscomelo/sentiment-analysis](https://github.com/abbas070/MITFutureMakers/blob/main/site/en/tutorials/keras/text_classification.ipynb))
+
+## Day 19 and 20:
 - The Weekend
 
-### Day 21:
+## Day 21:
+### ***Lesson Plan:***
 - The task for this day was to develop and visualize autoencoder based reconstruction and noise removal
+- Reviewed a [tutorial](https://machinelearningmastery.com/upsampling-and-transpose-convolution-layers-for-generative-adversarial-networks/) on upsampling
+- Learned about [autoencoders](https://blog.keras.io/building-autoencoders-in-keras.html)
 
-### Day 22:
-- On day 22, we have learned about affective computing and emotion estimation from speech parameters to understand how system and devices can recognize, interpret, process, and simulate human emotions.
+### ***Action Item:*** 
+- [Autoencoders](https://github.com/abbas070/MITFutureMakers/blob/main/BuildingAutoencoders.ipynb)
 
-### Day 23:
-- The task was to learn more about Natural Language Processing and follow on a Tensorflow project.
+## Day 22:
+### ***Lesson Plan:***
+- On day 22, we have learned about affective computing and emotion estimation from speech parameters to understand how system and devices can recognize, interpret, process, and simulate human emotions
+- Watched a [TED Talk](https://www.youtube.com/watch?v=ujxriwApPP4) on the origins of Affective Computing
+- Read about the [EMPath Makeathon](https://mysurestart.com/case-study)
+
+### ***Action Item:*** 
+- [Speech Emotion Analyzer](https://github.com/abbas070/MITFutureMakers/tree/main/speech-recognition)
+
+## Day 23:
+### ***Lesson Plan:*** 
+- Reviewed [this guide](https://medium.com/@calebkaiser/a-list-of-beginner-friendly-nlp-projects-using-pre-trained-models-dc4768b4bec0) on applied NLP projects
+- The task was to learn more about Natural Language Processing and follow on a Tensorflow project
+
+### ***Action Item:*** 
+- [Movie Review Classifier](https://github.com/abbas070/MITFutureMakers/tree/main/movie-review-classifier)
+
+## Weeks 5 & 6
+The last two weeks were a create-a-thon for which my team developed an application that would use face recognition to detect heart strokes.
+
+## All Projects
+- [Flower Classification](https://github.com/abbas070/MITFutureMakers/blob/main/decision_tree_classifier.ipynb)
+- [Predicting Housing Prices](https://github.com/abbas070/MITFutureMakers/blob/main/predicting-housing-prices.ipynb)
+- [TensorFlow Basics](https://github.com/abbas070/MITFutureMakers/blob/main/tensorflow-basics.ipynb)
+- [Belgian Traffic Sign Classification](https://github.com/abbas070/MITFutureMakers/blob/main/traffic_signs_classification.ipynb)
+- [Wine Identification](https://github.com/abbas070/MITFutureMakers/blob/main/wine-identification.ipynb)
+- [Sarcasm Detection](https://github.com/abbas070/MITFutureMakers/blob/main/sarcasm_detection.ipynb)
+- [MNIST Digits Classification](https://github.com/abbas070/MITFutureMakers/blob/main/mnist-digit-classification.ipynb)
+- [Housing Prices Classification](https://github.com/abbas070/MITFutureMakers/blob/main/housing-price-prediction.ipynb)
+- [Gender Recognition from Faces](https://github.com/abbas070/MITFutureMakers/blob/main/gender-recognition-face.ipynb)
+- [Animal Classification](https://github.com/abbas070/MITFutureMakers/blob/main/animal-classification.ipynb)
+- [Sentiment Analysis](https://github.com/abbas070/MITFutureMakers/blob/main/site/en/tutorials/keras/text_classification.ipynb)
+- [Autoencoders](https://github.com/abbas070/MITFutureMakers/blob/main/BuildingAutoencoders.ipynb)
+- [Speech Emotion Analyzer](https://github.com/abbas070/MITFutureMakers/tree/main/speech-recognition)
+- [Movie Review Classifier](https://github.com/abbas070/MITFutureMakers/tree/main/movie-review-classifier)
+
+## Resources
+### Cheatsheets
+- [Loss functions cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
+- [CNN cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+- [Activation functions cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
+- [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- [NLP Resources](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff)
+
+### Datasets
+- [Public datasets](https://docs.google.com/spreadsheets/d/1qYjOWt39m6r3DpMYx3kespQRVgT6icn5tALXHrztbY4/edit?usp=sharing)
+- [Kaggle](https://www.kaggle.com/datasets)
+
+## Misc
+- [Intro to ML](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
+- [Intro to Deep Learning](https://serokell.io/blog/deep-learning-and-neural-network-guide)
+- [Differences between AI, ML, and DL](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
+- [Ethics of ML](https://towardsdatascience.com/ethics-in-machine-learning-9fa5b1aadc12)
+- [Python Handbook](https://www.pythonlikeyoumeanit.com/)
+
+## Sources
+[Difference between a scalar, a vector, a matrix and a tensor](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/)
+
+[Choosing an activation function for a hidden layer](https://www.kaggle.com/discussion/212325)
+
+[Choosing an activation function for an output layer](https://www.kaggle.com/discussion/212325)
+
+<a id="footnote-1">1</a>: Goodman, Rachel. “Why Amazon's Automated Hiring Tool Discriminated Against Women.” American Civil Liberties Union, American Civil Liberties Union, 15 Oct. 2018, www.aclu.org/blog/womens-rights/womens-rights-workplace/why-amazons-automated-hiring-tool-discriminated-against.  
+
+<a id="footnote-2">2</a>: “Google Apologizes for Photos App's Racist Blunder.” BBC News, BBC, 1 July 2015, www.bbc.com/news/technology-33347866.
