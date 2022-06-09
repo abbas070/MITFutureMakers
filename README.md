@@ -54,7 +54,7 @@ At the end of the program we had a create-a-thon where together with my team I w
 ### ***Lesson Plan***
 - Reviewed ML models with this [article](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 ### ***Action Item:*** 
-- [Decision Tree Classifier](/decision-tree-classifier/)
+- [Decision Tree Classifier](https://github.com/abbas070/MITFutureMakers/blob/main/decision_tree_classifier.ipynb)
 ### ***What is the difference between supervised and unsupervised learning?***
 | Supervised Learning                                                                      | Unsupervised Learning                                                                                    |
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
