@@ -11,7 +11,7 @@ In this program, we focused on:
 
 For the first month of the program, I have learned fundamental knowledge on machine learning and deep learning and was able to apply this knowledge to numerious hands-on projects. Along with that, we were introduce to market research principles to make sure we are solving a real-world problem when creating our final project. To build our product, we went through several iterations and at the end had an opportunity to patent our work.
 
-At the end of the program we had a create-a-thon where together with my team I was able to develop an application that would be able to recognize face features using face recognition. When our application with an integrated deep learning model was completed, we presented it to the panel of judges that would determine our placement among other teams and eligibility of completion the program. As a result, my team was ranked as the finalist team. [All projects that I worked on during this program is here.](#all-projects)
+At the end of the program we had a create-a-thon where together with my team I was able to develop an application that would be able to recognize face features using face recognition. When our application with an integrated deep learning model was completed, we presented it to the panel of judges that would determine our placement among other teams and eligibility of completion the program. As a result, my team was ranked as the finalist team. [All projects that I worked on during this program are here.](#all-projects)
 
 - **Team name:** Code Blue
 - **Rank:** Finalist (1st place)
